@@ -2,15 +2,15 @@
 
 # UBER Pickups 
 
-Data will be stored in Google Drive as it is too heavy to store it locally, and even on GitHub.
-Datasets were modified and downloaded in order to do visualizations, they are stored on a folder called "Modified Data"
+Data will be stored in **Google Drive** as it is too heavy to store it locally, and even on GitHub.
+Datasets were modified and downloaded in order to do visualizations, they are stored on a folder called "Modified Data".
 
-Link to data:
+**Link to data:**
 https://drive.google.com/drive/u/0/folders/1WaEy9jmj1OygRCKm7Las2ZIiZOCcdCEv
 
-Visualizations were made in Tableau, a storyboard was created to show insights through data analysis. 
+Visualizations were made in **Tableau**, a storyboard was created to show insights through data analysis. 
 
-Link to storyboard:
+**Link to storyboard:**
 https://public.tableau.com/app/profile/david.garcia3078/viz/UberRidesStoryboard/UberStoryboard
 
 ## Company's Description 📇
