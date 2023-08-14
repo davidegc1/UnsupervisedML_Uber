@@ -2,6 +2,9 @@
 
 # UBER Pickups 
 
+Data will be stored in Google Drive as it is too heavy to store it locally, and even on GitHub.
+Datasets were modified and downloaded in order to do visualizations, they are stored on a folder called "Modified Data"
+
 Link to data:
 https://drive.google.com/drive/u/0/folders/1WaEy9jmj1OygRCKm7Las2ZIiZOCcdCEv
 
